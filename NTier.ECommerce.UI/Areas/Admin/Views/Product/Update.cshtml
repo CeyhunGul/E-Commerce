@@ -1,0 +1,37 @@
+﻿@model Product
+@{
+    ViewBag.Title = "Update";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<div class="col-md-6">
+    <div class="panel panel-primary">
+        <div class="panel-heading">
+            ÜRÜN GÜNCELLEME
+        </div>
+
+        <div class="panel-body">
+            @using (Html.BeginForm("Edit", "Product", FormMethod.Post))
+            {
+                <label> Product Name </label>
+                <div class="input-group">
+                    @Html.TextBoxFor(x => x.Name, new { @class = "form-control", placeholder = "ürün adı", type = "text", style = "width:300px;" })
+                </div>
+                <label> Price </label>
+                <div class="input-group">
+                    @Html.TextBoxFor(x => x.Price, new { @class = "form-control", placeholder = "fiyat", style = "width:300px;" })
+                </div>
+                <label> UnitsInStock </label>
+                <div class="input-group">
+                    @Html.TextBoxFor(x => x.UnitsInStock, new { @class = "form-control" , type = "text", style = "width:300px;" })
+                </div>
+                <div class="input-group">
+                    @*<input type="submit" value="Güncelle" class="btn btn-success" />*@
+                    <a href="@Html.ActionLink("Edit","Product",new { id=Model.ID})">Güncelle</a>
+                </div>
+            }
+        </div>
+    </div>
+</div>

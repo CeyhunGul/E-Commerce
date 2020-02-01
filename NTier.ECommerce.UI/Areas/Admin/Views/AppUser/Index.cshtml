@@ -1,0 +1,36 @@
+﻿@model 
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<div class="col-sm-6">
+    <section class="panel">
+        <header class="panel-heading">
+            Striped Table
+        </header>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Category Name</th>
+                    <th>SubCategory Name (Product Count)</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var category in Model)
+                {
+                    <tr>
+                        <td>@category.Name</td>
+                        <td>
+                            @foreach (var subcategory in category.SubCategories.ToList())
+                            {
+                                <span> @subcategory.Name ( @subcategory.Products.Count().ToString() ) </span>
+                            }
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </section>
+</div>

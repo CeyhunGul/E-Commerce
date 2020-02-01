@@ -1,0 +1,19 @@
+﻿@model AppUser
+@{
+    ViewBag.Title = "Success";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="login-wrap">
+    <div class="panel panel-info">
+        <div class="panel-heading">
+            <h2>Merhaba @Model.Name</h2>
+        </div>
+        <div class="panel-body">
+            <p>
+                Talebiniz başarıyla alındı. KAyıt işlemini tamamlamak için, kayıt esnasında girmiş olduğunuz e-posta adresine gelen link'e tıklayın.
+            </p>
+        </div>
+    </div>
+</div>
+

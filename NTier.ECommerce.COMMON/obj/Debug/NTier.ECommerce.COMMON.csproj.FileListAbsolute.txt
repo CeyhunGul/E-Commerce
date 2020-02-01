@@ -1,0 +1,5 @@
+C:\Users\Biac\source\repos\fatihGunalp\YMS3133Project\Ntier.ECommerce\NTier.ECommerce.COMMON\bin\Debug\NTier.ECommerce.COMMON.dll
+C:\Users\Biac\source\repos\fatihGunalp\YMS3133Project\Ntier.ECommerce\NTier.ECommerce.COMMON\bin\Debug\NTier.ECommerce.COMMON.pdb
+C:\Users\Biac\source\repos\fatihGunalp\YMS3133Project\Ntier.ECommerce\NTier.ECommerce.COMMON\obj\Debug\NTier.ECommerce.COMMON.csprojAssemblyReference.cache
+C:\Users\Biac\source\repos\fatihGunalp\YMS3133Project\Ntier.ECommerce\NTier.ECommerce.COMMON\obj\Debug\NTier.ECommerce.COMMON.dll
+C:\Users\Biac\source\repos\fatihGunalp\YMS3133Project\Ntier.ECommerce\NTier.ECommerce.COMMON\obj\Debug\NTier.ECommerce.COMMON.pdb

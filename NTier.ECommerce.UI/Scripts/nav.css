@@ -1,0 +1,35 @@
+﻿
+.navbar {
+    background: #FF7A28 !important;
+    font-size:12px;}
+
+.dropdown {
+    border-radius: 0;
+    border: 0;
+}
+
+.dropdown-menu {
+    background: #FF7A28;
+    border: 0;
+    top: 80%;
+    border-radius: 0px 0px 10px 10px;
+    scrollbar-darkshadow-color: coral;
+}
+
+.dropdown-item:hover {
+    font-size:12px;
+    background: #D73225;
+    color: #2B3337;
+}
+
+.dropdown-menu a {
+    color: #fff;
+}
+
+.navbar .nav-item .nav-link {
+    color: #eee !important;
+}
+
+    .navbar .nav-item .nav-link:hover .navbar .nav-item .nav-link {
+        color: red !important;
+    }

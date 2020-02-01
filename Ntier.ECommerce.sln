@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{ABBF03B1-891A-4365-AF8F-FBEC28BC8328}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTier.ECommerce.CORE", "NTier.ECommerce.CORE\NTier.ECommerce.CORE.csproj", "{AE625640-E545-40C2-9CB1-80D99E95EA38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTier.ECommerce.MODEL", "NTier.ECommerce.MODEL\NTier.ECommerce.MODEL.csproj", "{EF105EDF-2683-4F10-A92E-2B123F90367B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTier.ECommerce.SERVICE", "NTier.ECommerce.SERVICE\NTier.ECommerce.SERVICE.csproj", "{C61DD27D-777E-447B-905C-86672D1E9101}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTier.ECommerce.UI", "NTier.ECommerce.UI\NTier.ECommerce.UI.csproj", "{ADD49E05-AE5E-4136-A57F-71444B91384A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTier.ECommerce.COMMON", "NTier.ECommerce.COMMON\NTier.ECommerce.COMMON.csproj", "{45B649FC-262B-48C6-A9F4-C0679F9B7661}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE625640-E545-40C2-9CB1-80D99E95EA38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE625640-E545-40C2-9CB1-80D99E95EA38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE625640-E545-40C2-9CB1-80D99E95EA38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE625640-E545-40C2-9CB1-80D99E95EA38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF105EDF-2683-4F10-A92E-2B123F90367B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF105EDF-2683-4F10-A92E-2B123F90367B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF105EDF-2683-4F10-A92E-2B123F90367B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF105EDF-2683-4F10-A92E-2B123F90367B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C61DD27D-777E-447B-905C-86672D1E9101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C61DD27D-777E-447B-905C-86672D1E9101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C61DD27D-777E-447B-905C-86672D1E9101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C61DD27D-777E-447B-905C-86672D1E9101}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADD49E05-AE5E-4136-A57F-71444B91384A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD49E05-AE5E-4136-A57F-71444B91384A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD49E05-AE5E-4136-A57F-71444B91384A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD49E05-AE5E-4136-A57F-71444B91384A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45B649FC-262B-48C6-A9F4-C0679F9B7661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45B649FC-262B-48C6-A9F4-C0679F9B7661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45B649FC-262B-48C6-A9F4-C0679F9B7661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45B649FC-262B-48C6-A9F4-C0679F9B7661}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ADF8D06-3417-465D-A587-9A482195C65F}
+	EndGlobalSection
+EndGlobal

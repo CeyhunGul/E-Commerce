@@ -1,0 +1,14 @@
+C:\Users\Biac\source\repos\fatihGunalp\YMS3133Project\Ntier.ECommerce\NTier.ECommerce.MODEL\bin\Debug\NTier.ECommerce.MODEL.dll.config
+C:\Users\Biac\source\repos\fatihGunalp\YMS3133Project\Ntier.ECommerce\NTier.ECommerce.MODEL\bin\Debug\NTier.ECommerce.MODEL.dll
+C:\Users\Biac\source\repos\fatihGunalp\YMS3133Project\Ntier.ECommerce\NTier.ECommerce.MODEL\bin\Debug\NTier.ECommerce.MODEL.pdb
+C:\Users\Biac\source\repos\fatihGunalp\YMS3133Project\Ntier.ECommerce\NTier.ECommerce.MODEL\bin\Debug\EntityFramework.dll
+C:\Users\Biac\source\repos\fatihGunalp\YMS3133Project\Ntier.ECommerce\NTier.ECommerce.MODEL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Biac\source\repos\fatihGunalp\YMS3133Project\Ntier.ECommerce\NTier.ECommerce.MODEL\bin\Debug\NTier.ECommerce.CORE.dll
+C:\Users\Biac\source\repos\fatihGunalp\YMS3133Project\Ntier.ECommerce\NTier.ECommerce.MODEL\bin\Debug\NTier.ECommerce.CORE.pdb
+C:\Users\Biac\source\repos\fatihGunalp\YMS3133Project\Ntier.ECommerce\NTier.ECommerce.MODEL\bin\Debug\NTier.ECommerce.CORE.dll.config
+C:\Users\Biac\source\repos\fatihGunalp\YMS3133Project\Ntier.ECommerce\NTier.ECommerce.MODEL\bin\Debug\EntityFramework.xml
+C:\Users\Biac\source\repos\fatihGunalp\YMS3133Project\Ntier.ECommerce\NTier.ECommerce.MODEL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Biac\source\repos\fatihGunalp\YMS3133Project\Ntier.ECommerce\NTier.ECommerce.MODEL\obj\Debug\NTier.ECommerce.MODEL.csprojAssemblyReference.cache
+C:\Users\Biac\source\repos\fatihGunalp\YMS3133Project\Ntier.ECommerce\NTier.ECommerce.MODEL\obj\Debug\NTier.ECommerce.MODEL.csproj.CopyComplete
+C:\Users\Biac\source\repos\fatihGunalp\YMS3133Project\Ntier.ECommerce\NTier.ECommerce.MODEL\obj\Debug\NTier.ECommerce.MODEL.dll
+C:\Users\Biac\source\repos\fatihGunalp\YMS3133Project\Ntier.ECommerce\NTier.ECommerce.MODEL\obj\Debug\NTier.ECommerce.MODEL.pdb

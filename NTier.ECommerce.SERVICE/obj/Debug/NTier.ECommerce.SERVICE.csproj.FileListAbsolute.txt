@@ -1,0 +1,17 @@
+C:\Users\Biac\source\repos\fatihGunalp\YMS3133Project\Ntier.ECommerce\NTier.ECommerce.SERVICE\bin\Debug\NTier.ECommerce.SERVICE.dll.config
+C:\Users\Biac\source\repos\fatihGunalp\YMS3133Project\Ntier.ECommerce\NTier.ECommerce.SERVICE\bin\Debug\NTier.ECommerce.SERVICE.dll
+C:\Users\Biac\source\repos\fatihGunalp\YMS3133Project\Ntier.ECommerce\NTier.ECommerce.SERVICE\bin\Debug\NTier.ECommerce.SERVICE.pdb
+C:\Users\Biac\source\repos\fatihGunalp\YMS3133Project\Ntier.ECommerce\NTier.ECommerce.SERVICE\bin\Debug\EntityFramework.dll
+C:\Users\Biac\source\repos\fatihGunalp\YMS3133Project\Ntier.ECommerce\NTier.ECommerce.SERVICE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Biac\source\repos\fatihGunalp\YMS3133Project\Ntier.ECommerce\NTier.ECommerce.SERVICE\bin\Debug\NTier.ECommerce.CORE.dll
+C:\Users\Biac\source\repos\fatihGunalp\YMS3133Project\Ntier.ECommerce\NTier.ECommerce.SERVICE\bin\Debug\NTier.ECommerce.MODEL.dll
+C:\Users\Biac\source\repos\fatihGunalp\YMS3133Project\Ntier.ECommerce\NTier.ECommerce.SERVICE\bin\Debug\NTier.ECommerce.CORE.pdb
+C:\Users\Biac\source\repos\fatihGunalp\YMS3133Project\Ntier.ECommerce\NTier.ECommerce.SERVICE\bin\Debug\NTier.ECommerce.CORE.dll.config
+C:\Users\Biac\source\repos\fatihGunalp\YMS3133Project\Ntier.ECommerce\NTier.ECommerce.SERVICE\bin\Debug\NTier.ECommerce.MODEL.pdb
+C:\Users\Biac\source\repos\fatihGunalp\YMS3133Project\Ntier.ECommerce\NTier.ECommerce.SERVICE\bin\Debug\NTier.ECommerce.MODEL.dll.config
+C:\Users\Biac\source\repos\fatihGunalp\YMS3133Project\Ntier.ECommerce\NTier.ECommerce.SERVICE\bin\Debug\EntityFramework.xml
+C:\Users\Biac\source\repos\fatihGunalp\YMS3133Project\Ntier.ECommerce\NTier.ECommerce.SERVICE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Biac\source\repos\fatihGunalp\YMS3133Project\Ntier.ECommerce\NTier.ECommerce.SERVICE\obj\Debug\NTier.ECommerce.SERVICE.csprojAssemblyReference.cache
+C:\Users\Biac\source\repos\fatihGunalp\YMS3133Project\Ntier.ECommerce\NTier.ECommerce.SERVICE\obj\Debug\NTier.ECommerce.SERVICE.csproj.CopyComplete
+C:\Users\Biac\source\repos\fatihGunalp\YMS3133Project\Ntier.ECommerce\NTier.ECommerce.SERVICE\obj\Debug\NTier.ECommerce.SERVICE.dll
+C:\Users\Biac\source\repos\fatihGunalp\YMS3133Project\Ntier.ECommerce\NTier.ECommerce.SERVICE\obj\Debug\NTier.ECommerce.SERVICE.pdb

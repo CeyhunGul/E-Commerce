@@ -1,0 +1,78 @@
+﻿@model NTier.ECommerce.UI.Models.Basket.NewOrder
+@{
+    ViewBag.Title = "FinishShopping";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    decimal? toplamTutar = 0;
+}
+
+<h2>FinishShopping</h2>
+
+<div class="panel-body">
+    @using (Html.BeginForm())
+    {
+        <div class="form-group">
+            <label>Name</label>
+            @Html.TextBoxFor(x => x.CustomerName, null, new { @class = "form-control", placeholder = "lütfen adınız yazın" })
+            @Html.ValidationMessageFor(x => x.CustomerName, null, new { @class = "text-danger" })
+
+        </div>
+        <div>
+            <label>Surname </label>
+            @Html.TextBoxFor(x => x.CustomerSurname, null, new { @class = "form-control", placeholder = "lütfen soyadınızı yazın" })
+            @Html.ValidationMessageFor(x => x.CustomerSurname, null, new { @class = "text-danger" })
+        </div>
+        <div>
+            <label>Email </label>
+            @Html.TextBoxFor(x => x.Email, null, new { @class = "form-control", placeholder = "lütfen email adresinizi yazın" })
+            @Html.ValidationMessageFor(x => x.Email, null, new { @class = "text-danger" })
+        </div>
+        <div>
+            <label>Address</label>
+            @Html.TextBoxFor(x => x.Address, null, new { @class = "form-control", placeholder = "lütfen adresinizi yazın" })
+            @Html.ValidationMessageFor(x => x.Address, null, new { @class = "text-danger" })
+        </div>
+        <div>
+            <label>Sepetiniz</label>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="panel">
+                        <div class="panel-body">
+                            <table class="table table-hover">
+                                <thead>
+                                    <tr>
+                                        <th>Ürün ID</th>
+                                        <th>Fiyat</th>
+                                        <th>Adet</th>
+                                        <th>Ara Toplam</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in Model.SelectedProducts)
+                                    {
+                                        toplamTutar += item.SubTotal;
+                                        <tr>
+                                            <td>@item.ID</td>
+                                            <td>@item.Price</td>
+                                            <td>@item.Quantity</td>
+                                            <td>@item.SubTotal</td>
+                                        </tr>
+                                    }
+                                </tbody>
+                                <tfoot>
+                                    <tr>
+                                        <td>
+                                            @toplamTutar.ToString()
+                                        </td>
+                                    </tr>
+                                </tfoot>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <a href="#">Öde</a>
+
+    }
+</div>
